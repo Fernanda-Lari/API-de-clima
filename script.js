@@ -50,10 +50,11 @@ const showWeatherData = async(city) => {
 }; 
 
 //tratamento de erros
-const showErroMessahe = (city) => (
+const showErroMessahe = (city) => {
     cityErrorElement.innerText = city;
     erroMessageContainer.classList.remove("hide");
-)
+}
+
 
 
 //Eventos
