@@ -3,6 +3,8 @@
 Este repositório foi criado para colocar em prática os conhecimentos adquiridos nos cursos de HTML, CSS, Javascript e API dados em sala de aula.
 Projeto desenvolvido em sala de aula com a finalidade de inserir a cidade e ter de volta as informações climáticas.
 <h2> Layout do projeto </h2>
+![image](https://github.com/Fernanda-Lari/API-de-clima/assets/163914156/e87e010f-41ec-493c-a7f6-4b67319d70c0)
+
 
 <h2> Tecnologias utilizadas</h2>
 <ul>
