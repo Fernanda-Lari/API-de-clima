@@ -11,6 +11,6 @@ Projeto desenvolvido em sala de aula com a finalidade de inserir a cidade e ter 
 <li>API: </li>
 </ul>
 <h1>Autor</h1>
-<h3>>Larissa Fernanda O. de França </h3
+<h3>Larissa Fernanda O. de França </h3
 email: contato.larifernanda@gmail.com
 
